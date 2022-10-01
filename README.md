@@ -7,10 +7,10 @@
 - <b>Data Science Projects</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>Atificial Intelligence Projects</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+  - [Credit Card Approval Automation](https://github.com/oladimeji-kazeem/credit-card-approval-automationData Scientist Salary Prediction)
+  - [Data Scientist Salary Prediction](https://github.com/oladimeji-kazeem/portfolio)
+  - [Tokyo Olympics 2020 Twitter Sentiment Analysis](https://github.com/oladimeji-kazeem/ITNPAI1/blob/master/Practical_10_Natural_Language_Processing.ipynb)
+  - [Identification of Crashed Aeroplane parts using R-CNN](https://github.com/oladimeji-kazeem/ITNPAI1/blob/master/Practical_9_RCNN.ipynb)
 - <b>Data Architecture</b>
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
   - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
