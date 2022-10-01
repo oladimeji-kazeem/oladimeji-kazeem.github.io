@@ -7,10 +7,16 @@
 - <b>Data Science Projects</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>Atificial Intelligence Projects</b>
-  - [Credit Card Approval Automation](https://github.com/oladimeji-kazeem/credit-card-approval-automationData Scientist Salary Prediction)
+  - [Credit Card Approval Automation](https://github.com/oladimeji-kazeem/credit-card-approval-automation)
   - [Data Scientist Salary Prediction](https://github.com/oladimeji-kazeem/portfolio)
   - [Tokyo Olympics 2020 Twitter Sentiment Analysis](https://github.com/oladimeji-kazeem/ITNPAI1/blob/master/Practical_10_Natural_Language_Processing.ipynb)
   - [Identification of Crashed Aeroplane parts using R-CNN](https://github.com/oladimeji-kazeem/ITNPAI1/blob/master/Practical_9_RCNN.ipynb)
+  - [Hadwriting letters identification using Deep Learning](https://github.com/oladimeji-kazeem/ITNPAI1/blob/master/Handwriting_transcription_using_Deep_Learning_7.ipynb)
+  - <b>[Image tranformation and identification using Deep Learning wavelet :](https://colab.research.google.com/drive/1_-rnarH1Fzz0JhKpKJBdbB4xdX8CVCbQ#scrollTo=-qAhQn3JOz-4)</b> Wavelet transformation is one of the most popular frequency transaformation that is used for vairous image processing tasks. In this project images were decomposed into different. Several subbands were identified with directional edges which can be used for high level image processing or computer vision algorithms.
+  - <b>[Image Transformation using OpenCV :](https://github.com/oladimeji-kazeem/ITNPAI1/blob/master/Deep_Learning_Lab_4.ipynb)</b> Frequency domain transformations using OpenCV libabries with Fourier Transform are very useful for image manipulation including filtering, image enhancement etc. In this project code snippets were built using Fourier transform. dft() and its faster implementation fft() for the Fourier transform.
+
+This practical is linked with Lecture 4. Refer to the slides for various tasks.
+
 - <b>Data Architecture</b>
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
   - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
