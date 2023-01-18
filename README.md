@@ -2,12 +2,11 @@
 
 <h2>Project Portfolios:</h2>
 
-- <b>Data Analytics Practice</b>
+- <b>Data Science & Analytics Practice</b>
   - Customer churn Analysis in the bank.
   - Customer churn Analysis in the insurance company.
   - Customer churn Analysis in the Telecommmunication industry.
-- <b>Data Science Projects</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+
 - <b>Atificial Intelligence Projects</b>
   - [Credit Card Approval Automation](https://github.com/oladimeji-kazeem/credit-card-approval-automation)
   - [Data Scientist Salary Prediction](https://github.com/oladimeji-kazeem/portfolio)
