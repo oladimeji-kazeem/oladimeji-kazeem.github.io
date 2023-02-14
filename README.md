@@ -6,6 +6,9 @@
   - Customer churn Analysis in the bank.
   - Customer churn Analysis in the insurance company.
   - Customer churn Analysis in the Telecommmunication industry.
+  - Customer segmentation in the Telecommmunication industry.
+  - Customer segmentation in the bank.
+  - Customer segmentation in the insurance company.
 
 - <b>Atificial Intelligence Projects</b>
   - [Credit Card Approval Automation](https://github.com/oladimeji-kazeem/credit-card-approval-automation)
