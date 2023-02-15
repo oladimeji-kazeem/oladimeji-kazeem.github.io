@@ -1,11 +1,11 @@
-<h3>Hi, I'm Oladimeji! <br/><a href="https://github.com/oladimeji-kazeem">Machine Learning Expert | Data Scientist | Artificial Intelligence Specialist(Certified)</a>, <a href="https://www.linkedin.com/in/oladimeji/">Digital & Data Architect | Data Governance Practitioner</a></h3>
+<h4>Hi, I'm Oladimeji! <br/><a href="https://github.com/oladimeji-kazeem">Machine Learning Expert | Data Scientist | Artificial Intelligence Specialist(Certified)</a>, <a href="https://www.linkedin.com/in/oladimeji/">Digital & Data Architect | Data Governance Practitioner</a></h4>
 
 <h2>Project Portfolios:</h2>
 
 - <b>Data Science & Analytics Practice</b>
-  - Customer churn Analysis in the bank.
-  - Customer churn Analysis in the insurance company.
-  - Customer churn Analysis in the Telecommmunication industry.
+  - Customer churn Prediction in the bank.
+  - Customer churn Prediction in the insurance company.
+  - **[Customer churn Prediction in the Telecommmunication industry](https://github.com/oladimeji-kazeem/customer-analytics/tree/Telecommunication-Insudtry):** Customers leave sthe service of a telecommunication company for reasons including: poor network, poor customer support method, better offering from competition, choice of payment and available services. This is solution predicts the possiblity of new customer churning after some time.
   - Customer segmentation in the Telecommmunication industry.
   - Customer segmentation in the bank.
   - Customer segmentation in the insurance company.
