@@ -5,7 +5,7 @@
 - <b>Data Science & Analytics Practice</b>
   - Customer churn Prediction in the bank.
   - Customer churn Prediction in the insurance company.
-  - **[Customer churn Prediction in the Telecommmunication industry](https://github.com/oladimeji-kazeem/customer-analytics/tree/Telecommunication-Insudtry):** Customers leave sthe service of a telecommunication company for reasons including: poor network, poor customer support method, better offering from competition, choice of payment and available services. This is solution predicts the possiblity of new customer churning after some time.
+  - **[Customer churn Prediction in the Telecommmunication industry](https://github.com/oladimeji-kazeem/customer-analytics/tree/Telecommunication-Insudtry):** Customers leave the service of a telecommunication company for reasons including: poor network, poor customer support method, better offering from competition, choice of payment and available services. This is solution predicts the possiblity of new customer churning after some time.
   - Customer segmentation in the Telecommmunication industry.
   - Customer segmentation in the bank.
   - Customer segmentation in the insurance company.
